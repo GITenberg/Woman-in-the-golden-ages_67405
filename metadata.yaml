@@ -1,0 +1,39 @@
+_repo: Woman-in-the-golden-ages_67405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Amelia Gere
+    alias: Mason, Amelia Ruth Gere
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '954'
+    url: http://www.gutenberg.org/2009/agents/954
+    wikipedia: https://en.wikipedia.org/wiki/Amelia_Gere_Mason
+description: ''
+gutenberg_issued: '2022-02-14'
+identifiers:
+  gutenberg: '67405'
+  lccn: '01025574'
+language: en
+pgterms:marc904: https://archive.org/details/womaningoldenage00maso
+pgterms:marc905: 20200805090716mason
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Century co.,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- History'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: Preface -- Introduction -- Woman in Greek poetry -- Sappho and the
+  first woman's club -- Glimpses of the Spartan woman -- The Athenian woman, Aspasia,
+  and the first salon -- Revolt of the Roman women -- The "new woman" of old Rome
+  -- Some famous women of imperial Rome -- Marcella, Paula, and the first convent
+  -- The learned woman of the renaissance -- The literary courts and Platonic love
+  -- Salon and woman's club.
+title: Woman in the golden ages
+url: http://www.gutenberg.org/ebooks/67405
